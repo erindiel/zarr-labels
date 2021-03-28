@@ -1,6 +1,6 @@
 jupyterlab
 zarr
-napari==0.3.8
+napari[all]==0.3.8
 ome-zarr
 scikit-image
 scikit-learn
