@@ -2,6 +2,6 @@ jupyterlab
 zarr
 napari==0.3.8
 ome-zarr
-skimage
+scikit-image
 scikit-learn
 matplotlib
