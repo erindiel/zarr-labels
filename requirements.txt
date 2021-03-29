@@ -5,3 +5,4 @@ ome-zarr
 scikit-image
 scikit-learn
 matplotlib
+pandas
